@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # `random` module is used to shuffle field, see:
-import random
+
 
 # Empty tile, there's only one empty cell on a field:
 EMPTY_MARK = 'x'
