@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 # `random` module is used to shuffle field, see:
-# https://docs.python.org/3/library/random.html#random.shuffle
 import random
 
 # Empty tile, there's only one empty cell on a field:
