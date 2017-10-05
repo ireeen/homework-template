@@ -115,7 +115,7 @@ def main():
         except IndexError:
             print('Wait! The end of the field')
     print('You won!')
-    print('Number of moves: ', counter)
+    print('Number of move: ', counter)
     print_field(field)
 
 
