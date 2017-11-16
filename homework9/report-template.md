@@ -12,4 +12,4 @@ Shirokova Irina
 
 ## Screenshot
 
-![codefights]()
+![codefights](https://github.com/ireeen/homework-template/blob/feature-homework-9/homework9/vDWZmW4IUwQ.jpg)
